@@ -128,5 +128,6 @@ Para escribir en el µC hay 2 opciones:
 - Utilizando el software STM32 CubeProgramer
 
 ## Diagrama de configuracion de hardware
+![image](https://github.com/NataliaVictoria/L5_Descripcion_de_puertos_GPIO/assets/89500688/639871ff-0df8-41e3-b754-ad91ee7bdbd4)
 
-![Untitled](L5_Descripcion_de_puertos_GPIO%208fe019e28aad4edc9122462229408efb/Untitled.png)
+
